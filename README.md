@@ -4,7 +4,7 @@
 
 ## 💫 Liitle Bit More About Me
 <p>📫 How to reach me? nikhilsathe32+blog@gmail.om</p>
-<p>All of my projects are available at <a href="nikhilsathe.xyz">nikhilsathe.xyz</a></p>
+<p>All of my articles are available at <a href="nikhilsathe.xyz">nikhilsathe.xyz</a></p>
 
 ## 💻 Skills
 <p>
