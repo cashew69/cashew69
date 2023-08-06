@@ -1,7 +1,5 @@
 # Hi there 👋, My name is Nikhil Sathe
 
-<img width="100%" src="https://raw.githubusercontent.com/cashew69/my_notes/ecce5bf8521afbdfd548997f1f1f10b74c1631e9/github-header-image.png?token=GHSAT0AAAAAACB5Z72HTIASAJGY2W2MIZRYZCYRD6A" alt="my banner">
-
 <p>📫 How to reach me? nikhilsathe32+blog@gmail.om</p>
 <p>All of my articles are available at <a href="https://nikhilsathe.xyz/">nikhilsathe.xyz</a></p>
 
