@@ -1,7 +1,6 @@
 # Hi there 👋, My name is Nikhil Sathe
 
 <p>📫 How to reach me? nikhilsathe32+blog@gmail.om</p>
-<p>All of my articles are available at <a href="https://nikhilsathe.com/">nikhilsathe.com</a></p>
 
 ## 💻 Skills
 <p>
