@@ -1,1 +1,4 @@
-[](https://github.com/cashew69/GraphicsJourney/blob/main/media/Particle_effect_triangle.gif)
+
+<div align="center">
+<img src="https://github.com/cashew69/GraphicsJourney/blob/main/media/Particle_effect_triangle.gif" align="center">
+</div>
